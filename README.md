@@ -1,16 +1,13 @@
-### Hi there 👋
+- 🔭 I’m currently working on viva device tree
+- 🌱 I’m currently learning python and C
+- 👯 I’m looking to collaborate on Android trees
+- 📫 How to reach me: Telegram or discord (@emiferpro)
+- 😄 Pronouns: He/him
+- ⚡ Fun fact: Uruguay its in south america
 
-<!--
-**Emiferpro/Emiferpro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Emiferpro&show_icons=true&theme=vision-friendly-dark">
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emiferpro&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+</div>
