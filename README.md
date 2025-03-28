@@ -1,4 +1,4 @@
-- 🔭 I’m currently learning
+hey!
 - 🌱 I’m currently learning Java, C and CSharp
 - 📫 How to reach me: Telegram or discord (@emiferpro)
 - 😄 Pronouns: He/him
