@@ -1,9 +1,7 @@
-- 🔭 I’m currently working on viva device tree
-- 🌱 I’m currently learning python and C
-- 👯 I’m looking to collaborate on Android trees
+- 🔭 I’m currently learning
+- 🌱 I’m currently learning Java, C and CSharp
 - 📫 How to reach me: Telegram or discord (@emiferpro)
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: Uruguay is in south america
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Emiferpro&show_icons=true&theme=vision-friendly-dark">
